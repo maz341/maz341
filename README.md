@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter and React Native Projects**
 
-- 👨‍💻 All of my projects are available at [https://maazkamal.com/](https://maazkamal.com/)
+- 👨‍💻 All of my projects are available at [https://maazkamal.ca/](https://maazkamal.ca/)
 
 - 💬 Ask me about **Flutter, Dart, React Native, React, Native Android, Location Based Services.**
 
